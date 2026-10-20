@@ -1,4 +1,4 @@
-# mdlinkcheck
+# Mdlinkcheck (pet-project)
 
 Консольная утилита, которая находит битые ссылки в Markdown-документации.
 
