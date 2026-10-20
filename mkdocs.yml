@@ -1,0 +1,16 @@
+site_name: mdlinkcheck
+site_description: Проверка ссылок в Markdown-документации
+repo_url: https://github.com/username/mdlinkcheck
+theme:
+  name: material
+  language: ru
+markdown_extensions:
+  - admonition
+  - tables
+  - pymdownx.highlight
+  - pymdownx.superfences
+nav:
+  - Главная: index.md
+  - Быстрый старт: quickstart.md
+  - Справочник команд: cli-reference.md
+  - FAQ: faq.md
